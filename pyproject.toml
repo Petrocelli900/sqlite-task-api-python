@@ -1,0 +1,5 @@
+[project]
+name = "sqlite-task-api-python"
+version = "0.1.0"
+requires-python = ">=3.11"
+description = "API HTTP local de tarefas com persistência SQLite, paginação, validação e testes de integração."
